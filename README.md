@@ -3,10 +3,9 @@ Please download "vc_redist.x64.exe" and "vc_redist.x86.exe" from the [link](http
 
 ## How to Use
 Type the email addresses you would like to check into "email.txt" line by line, and run "CheckEmail.bat".\
-Those validated email addresses will be in "output.log".
+Those validated email addresses will be in "output.log".\
 The JSON output of "check_if_email_exists.exe" is in "batch.log".
-"check_if_email_exists.exe" is an application of Reacher:\
-https://github.com/reacherhq/check-if-email-exists \
+"check_if_email_exists.exe" is an application of [Reacher](https://github.com/reacherhq/check-if-email-exists)
 
 ## License
 
