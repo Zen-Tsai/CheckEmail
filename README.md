@@ -17,15 +17,15 @@ Run `CheckEmail.bat`.\
 Those validated email addresses will be in `output.log`.\
 `check_if_email_exists.exe` is an application of [Reacher](https://github.com/reacherhq/check-if-email-exists); its JSON output will be in `batch.log`.\
  \
-💡請將欲檢查的信箱地址逐行輸入 `email.txt` 中
+💡請將欲檢查的信箱地址逐行輸入 `email.txt`
 ```
 第一份信箱地址@SomeEmailProvider.com
 第二份信箱地址@SomeEmailProvider.com
 ...
 ```
 執行 `CheckEmail.bat`\
-確實存在的信箱會記錄於 `output.log` 中。\
-`check_if_email_exists.exe` 是 [Reacher](https://github.com/reacherhq/check-if-email-exists) 所開發的程式，其輸出的 `JSON` 文件將存於 `batch.log` 中。
+確實存在的信箱會記錄於 `output.log`\
+`check_if_email_exists.exe` 是 [Reacher](https://github.com/reacherhq/check-if-email-exists) 所開發的程式，其輸出的 `JSON` 文件將存於 `batch.log`
 <br/><br/><br/>
 ## License 授權（The same as Reacher 與原作者 Reacher 相同）
 
