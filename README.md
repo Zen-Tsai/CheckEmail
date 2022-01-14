@@ -1,15 +1,16 @@
 # CheckEmail
 Please download  `vc_redist.x64.exe` and `vc_redist.x86.exe` from [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=52685) if any `*.dll` file is missing on your computer.\
-若您的電腦缺少 `*.dll` 文件，請至[微軟官網](https://www.microsoft.com/zh-tw/download/details.aspx?id=52685)下載並安裝 `vc_redist.x64.exe` 、 `vc_redist.x86.exe`
+ \
+若您的電腦缺少 `*.dll` 文件，請至 [微軟官網](https://www.microsoft.com/zh-tw/download/details.aspx?id=52685) 下載並安裝 `vc_redist.x64.exe` 、 `vc_redist.x86.exe`
 
 ## How to Use 使用說明
 Type the email addresses you would like to check into `email.txt` line by line, and run `CheckEmail.bat`.\
 Those validated email addresses will be in `output.log`.\
 The JSON output of `check_if_email_exists.exe` is in `batch.log`.\
-`check_if_email_exists.exe` is an application of [Reacher](https://github.com/reacherhq/check-if-email-exists).
+`check_if_email_exists.exe` is an application of [Reacher](https://github.com/reacherhq/check-if-email-exists).\
  \
 請將欲檢查的信箱地址逐行輸入 `email.txt` 中，並執行 `CheckEmail.bat` 後，確實存在的信箱會記錄於 `output.log` 中\
-`check_if_email_exists.exe` 是[Reacher](https://github.com/reacherhq/check-if-email-exists)所開發的程式，其輸出的 `JSON` 文件將存於 `batch.log` 中
+`check_if_email_exists.exe` 是 [Reacher](https://github.com/reacherhq/check-if-email-exists) 所開發的程式，其輸出的 `JSON` 文件將存於 `batch.log` 中
 
 ## License 授權（The same as Reacher 與原作者 Reacher 相同）
 
