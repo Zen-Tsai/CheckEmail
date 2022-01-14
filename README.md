@@ -9,8 +9,7 @@ If any `*.dll` file is missing on your computer, please download `vc_redist.x64.
 ## How to Use 使用說明
 💡Type the email addresses you would like to check into `email.txt` line by line, and run `CheckEmail.bat`.\
 Those validated email addresses will be in `output.log`.\
-The JSON output of `check_if_email_exists.exe` is in `batch.log`.\
-`check_if_email_exists.exe` is an application of [Reacher](https://github.com/reacherhq/check-if-email-exists).\
+`check_if_email_exists.exe` is an application of [Reacher](https://github.com/reacherhq/check-if-email-exists); its JSON output will be in `batch.log`.\
  \
 💡請將欲檢查的信箱地址逐行輸入 `email.txt` 中，並執行 `CheckEmail.bat` 後，\
 確實存在的信箱會記錄於 `output.log` 中。\
