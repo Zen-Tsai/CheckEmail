@@ -1,15 +1,13 @@
 # CheckEmail
-Please download "vc_redist.x64.exe" and "vc_redist.x86.exe"\
-from the folloeing link if any .dll file is missing.\
-https://www.microsoft.com/en-us/download/details.aspx?id=52685 \
- \
+Please download "vc_redist.x64.exe" and "vc_redist.x86.exe" from the [link](https://www.microsoft.com/en-us/download/details.aspx?id=52685) if any "*.dll" file is missing on your computer.
+
 ## How to Use
 Type the email addresses you would like to check into "email.txt" line by line, and run "CheckEmail.bat".\
 Those validated email addresses will be in "output.log".
 The JSON output of "check_if_email_exists.exe" is in "batch.log".
 "check_if_email_exists.exe" is an application of Reacher:\
 https://github.com/reacherhq/check-if-email-exists \
- \
+
 ## License
 
 `check-if-email-exists`'s source code is provided under a **dual license model** .
