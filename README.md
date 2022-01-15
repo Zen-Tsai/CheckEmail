@@ -3,11 +3,11 @@
 Please [download](https://github.com/Zen-Tsai/CheckEmail/archive/refs/heads/main.zip) and put all the file in the same folder.\
 If any `*.dll` file is missing on your computer, please download `vc_redist.x64.exe` or `vc_redist.x86.exe` from [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=52685).\
  \
-請 [下載](https://github.com/Zen-Tsai/CheckEmail/archive/refs/heads/main.zip) 並將所有檔案置於同一資料夾。\
-若您的電腦缺少 `*.dll` 文件，請至 [微軟官網](https://www.microsoft.com/zh-tw/download/details.aspx?id=52685) 安裝 `vc_redist.x64.exe` 或 `vc_redist.x86.exe` 。
+請 [下載](https://github.com/Zen-Tsai/CheckEmail/archive/refs/heads/main.zip) 並將所有檔案置於同一資料夾\
+若您的電腦缺少 `*.dll` 文件，請至 [微軟官網](https://www.microsoft.com/zh-tw/download/details.aspx?id=52685) 安裝 `vc_redist.x64.exe` 或 `vc_redist.x86.exe`
 <br/><br/><br/>
 ## How to Use 使用說明
-💡Type the email addresses you would like to check into `email.txt` line by line.\
+💡Type the email addresses you would like to check into `email.txt` line by line.
 ```
 TheFirstAddress@SomeEmailProvider.com
 TheSecondAddress@SomeEmailProvider.com
