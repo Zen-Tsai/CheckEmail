@@ -24,7 +24,7 @@ Those safe email addresses will be in `validated.log`, and those unsafe email ad
 ...
 ```
 執行 `CheckEmail.bat`\
-確實存在的信箱會記錄於 `output.log`\
+確實存在的信箱會記錄於 `validated.log`\
 未通過檢驗的信箱地址會記錄於 `failed.log`\
 `check_if_email_exists.exe` 是 [Reacher](https://github.com/reacherhq/check-if-email-exists) 所開發的程式，其輸出的 `JSON` 文件將存於 `batch.log`
 <br/><br/><br/>
